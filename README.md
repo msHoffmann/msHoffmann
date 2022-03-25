@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Frania Hoffmann</h1>
+<h1 align="center">Hi, I'm Frania Hoffmann :)</h1>
 <h3 align="center">A passionate Full Stack Developer from Brazil.</h3>
 
 - 🔭 I’m currently working on **Project 2 from Infnet.**
