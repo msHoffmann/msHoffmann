@@ -3,7 +3,7 @@
 
 <h3 align="center">A passionate Full Stack Developer from Brazil.</h3>
 
-- 🔭 I’m currently working on **Project 2/3 from Infnet.**
+- 🔭 I’m currently working on **Project 3 from Infnet.**
 
 - 📫 How to reach me **franiahoffmann@gmail.com**
 
