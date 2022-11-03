@@ -12,7 +12,7 @@ class SobreMim extends Desenvolvedora {
 ```
 👩‍💻 Sou Desenvolvedora Full-Stack em formação.
 
-🔭 Atualmente trabalho no **Projeto 1 de Back-end: Locadora de Filmes**
+🔭 Atualmente trabalho no **Projeto 2 de Back-end: Typescript**
 
 📫 Contacte-me em **franiahoffmann@gmail.com**
 
