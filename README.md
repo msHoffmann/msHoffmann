@@ -10,9 +10,9 @@ class SobreMim extends Desenvolvedora {
   local = 'Lisboa, PT';
 }
 ```
-👩‍💻 Sou Desenvolvedora Full-Stack em formação.
+👩‍💻 Recém formada em Desenvolvedor Web Full Stack
 
-🔭 Atualmente trabalho no **Projeto 2 de Back-end: Typescript**
+🔭 Atualmente trabalho no **Projeto Final de Back-end**
 
 📫 Contacte-me em **franiahoffmann@gmail.com**
 
