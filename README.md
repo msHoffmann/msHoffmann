@@ -6,7 +6,7 @@ import Desenvolvedora from ‘msHoffmann’;
 class SobreMim extends Desenvolvedora {
   nome = 'Frania Lopes Hoffmann';
   area = 'Dev Full Stack';
-  trabalho = 'NOS';
+  trabalho = 'Radio Popular';
   local = 'Lisboa, PT';
 }
 ```
