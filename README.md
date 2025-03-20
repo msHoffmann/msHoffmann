@@ -1,6 +1,6 @@
 <h1>Profile</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Olá,+bem-vindo(a)+ao+meu+GitHub!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello,+welcome+to+my+GitHub!;)](https://git.io/typing-svg)
 ```
 import Dev from ‘msHoffmann’;
 class AboutMe extends Dev {
