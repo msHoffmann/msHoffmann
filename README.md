@@ -6,13 +6,13 @@ import Desenvolvedora from ‘msHoffmann’;
 class SobreMim extends Desenvolvedora {
   nome = 'Frania Lopes Hoffmann';
   area = 'Dev Full Stack';
-  trabalho = 'Loading...';
+  trabalho = 'Accenture';
   local = 'Lisboa, PT';
 }
 ```
-👩‍💻 Recém formada em Desenvolvedor Web Full Stack
+👩‍💻 Formada em Desenvolvedor Web Full Stack
 
-🔭 Atualmente trabalho no **Projeto Final de Back-end**
+🔭 Atualmente voltando aos estudos de TI
 
 📫 Contacte-me em **franiahoffmann@gmail.com**
 
